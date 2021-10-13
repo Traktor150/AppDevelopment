@@ -25,7 +25,4 @@ röd #  <br>
 
 
 
-## Use cases
-
-
 

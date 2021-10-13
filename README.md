@@ -17,8 +17,9 @@ ljusare färjer
   blå - du har bokat   med check
 
 
-#63c3ff
-
+blå # 63c3ff
+grön # 69ff66
+röd # 
 
 
 

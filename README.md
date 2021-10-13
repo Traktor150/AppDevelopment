@@ -7,7 +7,7 @@ boka en tid
 
 
 
-prik vs. inte prik 
+
 prik
 
 mer gråskala, 

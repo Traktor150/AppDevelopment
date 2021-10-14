@@ -1,0 +1,19 @@
+{
+  "name": "appdemo",
+  "version": "1.0.0",
+  "description": "boka en tid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Traktor150/AppDevelopment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Traktor150/AppDevelopment/issues"
+  },
+  "homepage": "https://github.com/Traktor150/AppDevelopment#readme"
+}

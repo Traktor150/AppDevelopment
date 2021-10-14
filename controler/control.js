@@ -6,5 +6,5 @@ exports.app = (req, res) => {
 
 
 
-    res.send('I am Alive');
+    res.sendfile('public/html/app.html');
 };

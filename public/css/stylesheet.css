@@ -1,0 +1,47 @@
+body{
+    margin:0px;
+    max-width:100%;
+}
+ 
+header{
+    width: 100%;
+    height:100px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.txtbox{ 
+
+    margin-top:20px;
+    border-radius: 10px;
+    height: 25px;
+    width:60%;
+    height:32px;
+    margin-left: 20%;
+    background-color: rgba(73, 71, 71, 0.044);
+    text-align: center;
+ 
+}
+
+form{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    text-align: center;
+    margin-top:20px;
+    font-size: large;
+}
+
+
+.button{
+    margin-top:40px;
+    margin-left:35%;
+    margin-right:35%;
+    align-items: center;
+    border-radius: 20px;
+    height:40px;
+    max-width:200px ;
+}

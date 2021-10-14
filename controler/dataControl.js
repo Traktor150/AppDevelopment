@@ -2,9 +2,22 @@
 
 exports.sendData = (req, res) => {
     
-    res.sendfile('../public/data/data.json')
+    const fs = require('fs');
+
+    const text = '';
+
+
+    fs.readFile('../public/data/data.json', (err, data) => {
+        if (err) throw err;
+        console.log(data);
+        text = JSON.stringify(data);
+        });
+
+
+
+    res.send(text);
 }
 exports.showData = (req, res) => {
     
-    res.sendfile('public/html/boka.html')
+    res.sendfile('public/html/boka.html');
 }
